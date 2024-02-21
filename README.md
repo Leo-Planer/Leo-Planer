@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python, Html, AI.
 - 💞️ I’m looking to collaborate on C++ Programs.
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Leo, Planer, Patti
+- ⚡ Fun fact: I love playing Video Games.
 
 <!---
 Leo-Planer/Leo-Planer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
