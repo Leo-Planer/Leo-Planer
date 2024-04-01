@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leo-Planer
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python, Html, AI.
+- 🌱 I’m currently learning Python, JavaScript and Shell Scriptting.
 - 💞️ I’m looking to collaborate on C++ Programs.
 - 📫 How to reach me ...
 - 😄 Pronouns: Leo, Planer, Patti
