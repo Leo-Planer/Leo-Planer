@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leo-Planer
+- 👋 Hi, I’m @Leo-Planer(Abdullah Jabbar)
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python, JavaScript and Shell Scriptting.
 - 💞️ I’m looking to collaborate on C++ Programs.
